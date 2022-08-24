@@ -1,4 +1,4 @@
 # ololo228.github.io
 Tessssssssssssssssst
 
-[deeplink](unitydl://idollyblogger)
+[deeplink]:unitydl://idollyblogger
